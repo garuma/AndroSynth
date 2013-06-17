@@ -1,0 +1,5 @@
+*.apk
+*/obj/*
+*/bin/*
+*.userprefs
+
